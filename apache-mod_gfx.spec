@@ -6,7 +6,7 @@
 Summary:	Performs image operations on the fly
 Name:		apache-%{mod_name}
 Version:	0.1
-Release: 	%mkrel 3
+Release: 	%mkrel 4
 Group:		System/Servers
 License:	GPLv3
 URL:		http://nauticaltech.com/software/mod_gfx/
