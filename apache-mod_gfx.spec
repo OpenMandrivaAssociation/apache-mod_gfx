@@ -9,7 +9,7 @@ Version:	0.1
 Release: 	8
 Group:		System/Servers
 License:	GPLv3
-URL:		http://nauticaltech.com/software/mod_gfx/
+URL:		https://nauticaltech.com/software/mod_gfx/
 Source0:	http://nauticaltech.com/software/mod_gfx/%{mod_name}-%{version}.tar.gz
 Source1:	%{mod_conf}
 Requires(pre): rpm-helper
